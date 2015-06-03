@@ -9,10 +9,6 @@
 //     by Kyle McDonald
 //     from the instructables project at:
 //     http://www.instructables.com/id/DIY-3D-Controller/
-// 
-// # 3D version
-//    by antoine.delhomme@espci.fr
-//    for the langevinium.espci.fr
 //
 
 
